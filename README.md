@@ -6,7 +6,7 @@ Update database configuration on config.php.
 ```sh
 define('DBHOST',<Database Host>);
 define('DBUSER',<Database Username>);
-define('DBPWD',<Database Password>);
+define('DBPWD' ,<Database Password>);
 define('DBNAME',<Database Name>;
 ```
 
